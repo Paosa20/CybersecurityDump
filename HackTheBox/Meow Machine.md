@@ -47,4 +47,4 @@ Now we can try it with our target IP address and it tell us that, Port 23 TCP is
 
 ![image](https://user-images.githubusercontent.com/55120196/163901731-f00f2a47-2c85-462c-8aac-bdff9221ac26.png)
 
-## Congrats you got yout first flag! Keep it up! 🐱
+## Congrats you got your first flag! Keep it up! 🐱
